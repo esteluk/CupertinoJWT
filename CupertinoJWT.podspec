@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.authors     = { "ethanhuang13" => "blesserx@gmail.com" }
 
   s.requires_arc = true
-  s.swift_version = "4.0"
+  s.swift_version = "5.0"
   s.ios.deployment_target = "10.0"
   s.osx.deployment_target = "10.12"
   s.tvos.deployment_target = "10.0"
